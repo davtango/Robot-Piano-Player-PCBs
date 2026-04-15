@@ -32,3 +32,4 @@ A dedicated H-bridge driver board for brushed DC motors
   <img src="Motor-Driver/md-back.png" width="300">
 </p>
 
+## System Block Diagram
